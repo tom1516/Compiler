@@ -1,0 +1,19 @@
+program x
+ const a:=4;
+ var s,e;
+ function d (var x,var s) begin
+ e:=3*(a/3-0+a);
+ if a>e then x:=a
+  end
+
+
+ function dd (var x,var s) begin
+ 
+ if a>s then x:=0
+  end
+
+
+ begin
+while not [ a=s] do
+	s:=a
+end

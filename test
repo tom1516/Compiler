@@ -1,0 +1,32 @@
+program x
+const a:=10,as:=4;
+var s,e;
+  function d (var x,var s) 
+   	function dd (var x,var s) 
+		procedure ddd (var x, var s)
+		
+		begin
+ 		s:=a; e:=3*(a/3-0+a);
+ 		if a>s then s:=a
+		end
+
+
+
+	begin
+ 	
+        return(5)
+	end
+	
+
+
+  begin
+  s:=a; e:=3*(a/3-0+a);
+  if a>s then s:=a
+  end 
+
+
+begin
+
+while not [ a=s] do
+	s:=a
+end
